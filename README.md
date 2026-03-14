@@ -6,3 +6,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosebastian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=woosebastian&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=woosebastian)
