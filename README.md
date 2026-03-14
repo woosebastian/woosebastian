@@ -4,7 +4,7 @@
 <!--https://github.com/KentoNishi/KentoNishi/blob/master/README.md?plain=1-->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=woosebastian&show_icons=true&theme=default&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosebastian&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosebastian&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=woosebastian&hide_border=true)
 
